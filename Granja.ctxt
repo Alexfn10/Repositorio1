@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Granja()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Granja\r\n
+comment1.params=animal
+comment1.target=void\ agregarAnimal(Animal)
+comment1.text=\r\n\ Agregamos\ un\ animal\r\n
+comment2.params=
+comment2.target=int\ numAnimales()
+comment2.text=\r\n\ Contamos\ el\ total\ de\ animales\ de\ la\ granja\r\n
+comment3.params=
+comment3.target=double\ pesoMedio()
+comment3.text=\r\n\ \r\n
+comment4.params=
+comment4.target=void\ listar()
+comment4.text=\r\n\ Listamos\ todos\ los\ animales\ de\ la\ granja\r\n
+comment5.params=
+comment5.target=void\ inicializarGrnaja()
+comment5.text=\r\n\ Inicializamos\ la\ granja\ con\ una\ serie\ de\ animales\r\n
+comment6.params=nombreAnimal
+comment6.target=void\ matar(java.lang.String)
+comment6.text=\r\n\ Elimina\ un\ animal\ de\ la\ granja\r\n
+numComments=7

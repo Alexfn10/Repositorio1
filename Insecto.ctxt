@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=nombre\ peso\ vida\ conAlas\ numPatas
+comment0.target=Insecto(java.lang.String,\ double,\ int,\ boolean,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Insecto\r\n
+comment1.params=
+comment1.target=boolean\ getConAlas()
+comment1.text=\r\n\ Devuelve\ si\ el\ insecto\ tiene\ alas\r\n
+comment2.params=
+comment2.target=int\ getNumPatas()
+comment2.text=\r\n\ Devuelve\ el\ n\u00FAmero\ de\ patas\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ Devuelve\ una\ cadena\ que\ es\ la\ representaci\u00F3n\ del\ insecto\r\n
+numComments=4

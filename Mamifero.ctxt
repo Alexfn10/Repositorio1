@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=nombre\ peso\ vida\ categoria
+comment0.target=Mamifero(java.lang.String,\ double,\ int,\ char)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Mamifero\r\n
+comment1.params=
+comment1.target=char\ getCategoria()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Devuelve\ una\ cadena\ que\ es\ la\ representaci\u00F3n\ del\ mam\u00EDfero\r\n
+numComments=3

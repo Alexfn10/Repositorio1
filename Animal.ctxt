@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=nombre\ peso\ vida
+comment0.target=Animal(java.lang.String,\ double,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Animal\r\n
+comment1.params=
+comment1.target=java.lang.String\ getNombre()
+comment1.text=\r\n\ Devuelve\ el\ nombre\ del\ animal\r\n
+comment2.params=
+comment2.target=double\ getPeso()
+comment2.text=\r\n\ Devuelve\ el\ peso\ del\ animal\r\n
+comment3.params=
+comment3.target=int\ vida()
+comment3.text=\r\n\ Devuelve\ la\ vida\ del\ animal\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ Devuelve\ una\ cadena\ que\ es\ la\ representaci\u00F3n\ textual\ del\ objeto\r\n
+numComments=5
